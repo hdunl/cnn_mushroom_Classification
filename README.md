@@ -1,3 +1,7 @@
+CURRENTLY TRAINING A LARGER, MORE CAPABLE MODEL ON ~200,000 IMAGES / ~2000 SPECIES. WILL UPDATE SOON
+
+
+
 | Mushroom Species | Training Set Images |
 |------------------|---------------------|
 | Coprinus comatus | 813 |
